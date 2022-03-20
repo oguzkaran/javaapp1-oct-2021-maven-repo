@@ -3,10 +3,11 @@
   <groupId>org.csystem</groupId>
   <artifactId>org-csystem-util-image</artifactId>
   <versioning>
-    <release>10.0.0</release>
+    <release>11.0.0</release>
     <versions>
       <version>10.0.0</version>
+      <version>11.0.0</version>
     </versions>
-    <lastUpdated>20220320153136</lastUpdated>
+    <lastUpdated>20220320161609</lastUpdated>
   </versioning>
 </metadata>
